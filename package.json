@@ -1,5 +1,5 @@
 {
-  "name": "react-full-page",
+  "name": "rc-fullpage",
   "version": "0.1.0",
   "description": "A fullpage component in React!",
   "main": "index.js",
