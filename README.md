@@ -1,2 +1,5 @@
 # react-full-page
-Based on the react fullpage plug-in
+一个基于React的fullpage组件，第一个简陋目前只支持全屏切换
+
+#Usage
+
