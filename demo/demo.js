@@ -10,10 +10,10 @@ let Demo = React.createClass({
         return (
             <div>
                 <SectionsBox {...props}>
-                    <Section>1</Section>
-                    <Section>2</Section>
-                    <Section>3</Section>
-                    <Section>4</Section>
+                    <Section>Page 1</Section>
+                    <Section>Page 2</Section>
+                    <Section>Page 3</Section>
+                    <Section>Page 4</Section>
                 </SectionsBox>
             </div>
         );

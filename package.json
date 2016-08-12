@@ -1,6 +1,6 @@
 {
   "name": "rc-fullpage",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A fullpage component in React!",
   "main": "index.js",
   "scripts": {
