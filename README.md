@@ -1,9 +1,9 @@
 # react-full-page
-一个基于React的fullpage组件，第一个简陋目前只支持全屏切换
+一个基于React的fullpage组件，第一个简陋版本目前只支持全屏切换，后续完善，欢迎大家去Issues提出宝贵意见。
 
 #Install
     
-    npm install rc-fullpage
+    $ npm install rc-fullpage
 
 #Usage
 
@@ -38,9 +38,8 @@ const props = {
 
 #Example
 
-
-    git clone https://github.com/dodospace/react-full-page.git
-    npm install
-    npm start
+    $ git clone https://github.com/dodospace/react-full-page.git
+    $ npm install
+    $ npm start
 
 Local documentation will then be available at `http://localhost:2008/`.
