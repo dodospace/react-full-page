@@ -1,13 +1,13 @@
 # react-full-page
 一个基于React的fullpage组件，第一个简陋版本目前只支持全屏切换，后续完善，欢迎大家去Issues提出宝贵意见。
 
-#Install
+# Install
     
     $ npm install rc-fullpage
 
-#Usage
+# Usage
 
-###A basic usage
+### A basic usage
 ```javascript
 import React                    from 'react';
 import { SectionsBox, Section } from 'rc-fullpage';
@@ -29,14 +29,14 @@ return (
 
 ```
 
-###Default Props
+### Default Props
 ```javascript
 const props = {
     speed:  800, // slide speed
 }
 ```
 
-#Example
+# Example
 
     $ git clone https://github.com/dodospace/react-full-page.git
     $ npm install
